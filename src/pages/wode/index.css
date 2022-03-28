@@ -1,0 +1,131 @@
+*{
+    padding: 0;margin: 0;
+}
+.Mybox{
+    width: 7.5rem;
+}
+h3{
+    padding-bottom:.2rem;
+    width: 100%;
+    font-size: .3rem;
+    text-align: center;
+    padding-top: .3 rem;
+}
+.login img{
+    width: .5rem;
+    height: 0.5rem;
+    border-radius: 50%;
+}
+.login{
+    align-items: center;
+    padding: .2rem;
+    display: flex;
+    height: 0.5rem;
+    border-bottom:1px solid #cccccc ;
+    justify-content: space-between;
+    padding-bottom: .3rem;
+}
+.login div:nth-child(1){
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+}
+.login .title p{
+    margin-left:.2rem;
+    font-size:.2rem;
+    margin-right:.5rem;
+    height: 0.5rem;
+    line-height: .6rem;
+}
+.login i{
+    font-size:.2rem;
+    font-weight: bold;
+}
+
+.func {
+    width: 7.5rem;
+}
+.func .title p {
+    display: flex;
+    height: 0.5rem;
+    align-items: center;
+    justify-content: space-between;
+    padding:0 .2rem;
+}
+.func>p{
+    width: 7.5rem;
+    display: flex;
+    height: 0.5rem;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom:1px solid #cccccc ;
+
+}
+.func p span{
+    font-size:.15rem;
+    color:rgb(110, 110, 110);
+}
+.el-icon-arrow-right,.func #ico{
+    font-size:.2rem;
+    color: #cccccc;
+    font-weight: bold;
+}
+.num{
+    width: 1.5rem;
+    height: 1.5rem;
+    margin:0 auto;
+    margin-top:.7rem;
+    font-size:.25rem;
+}
+.van-popup{
+    width: 7.5rem;
+    margin:0 auto;
+}
+.xinyong{
+    text-align: center;
+}
+.xinyong>*{
+    margin-top:.1rem;
+}
+
+.tishi{
+    color:#cccccc;
+    font-size:.12rem;
+    text-align: center;
+}
+.van-steps{
+    width: 7.5rem;
+}
+.kuaidi{
+    text-align: center;
+}
+.van-step{
+    text-align: left;
+}
+h4{
+    margin-top:.3rem;
+    font-size:.18rem;
+    text-align: center;
+    font-weight: bold;
+}
+.van-contact-card{
+    text-align: center;
+}
+.lianxi{
+    margin:.3rem 0;
+}
+nav{
+    display: flex;
+}
+.van-cell{
+    position: relative;
+}
+.van-switch{
+    position: absolute;
+    right: 1rem;
+}
+.circle{
+    display: flex;
+    justify-content: center;
+    
+}

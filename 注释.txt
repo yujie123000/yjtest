@@ -1,0 +1,4 @@
+使用 vant axios mock
+加入购物车 存储在localstorage
+
+点 商品 跳转到  商品详情页 是 路由要传参 在路由配置中 '/xxx/:id' 用props:true
